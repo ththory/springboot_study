@@ -1,0 +1,4 @@
+insert into book (id, title, author) values(1, '백설공주', 'jimin')
+
+select * from book
+
